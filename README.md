@@ -15,3 +15,5 @@ https://localhost:5001/swagger/index.html
 dotnet ef database drop --force  
 dotnet ef database drop --force  
 dotnet ef migrations remove  
+
+https://github.com/SlavaKuzkinHackathon/AB_task/blob/main/777.png
