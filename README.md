@@ -1,5 +1,6 @@
 # AB_task
 netcoreapp3.1  
+cd ClientApp npm i  
 ID=postgres;Password=**********;  
 dotnet ef migrations add Initial  
 dotnet ef database update  
