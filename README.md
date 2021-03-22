@@ -1,5 +1,5 @@
 # AB_task
-#netcoreapp3.1  
+netcoreapp3.1  
 ID=postgres;Password=**********;  
 dotnet ef migrations add Initial  
 dotnet ef database update  
